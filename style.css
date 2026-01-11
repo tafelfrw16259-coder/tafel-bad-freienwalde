@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 30px 20px;
+    background-color: #ffffff;
+}
+
+.logo {
+    max-width: 250px;
+    height: auto;
+}
+
+h1 {
+    color: #e87722;
+    margin-bottom: 5px;
+}
+
+.slogan {
+    color: #2f7d32;
+    font-size: 1.2em;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #2f7d32;
+}
+
+footer {
+    background-color: #e87722;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
